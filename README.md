@@ -5,10 +5,10 @@ This is the repository of group 1 for the insights of RTOS with FREERTOS using S
 
 | Sr.No. |    Member Name      | PS Number | Photo |
 |:------:|:-------------------:|:---------:|:-----:|
-|    1   |    Kartik Burele    |  99007835 | <img src= "https://user-images.githubusercontent.com/98891749/159463146-8c404739-b2b2-4ba1-ae54-dd242e9775f0.jpg" width="40%" height="40%">|
-|      2 |    Saujandu Roy     |  99007834 | <img src="https://user-images.githubusercontent.com/98866279/159470500-f3bc65ac-dbe3-4c06-9d10-f3c71cd2f19c.jpg" width="40%" height="40%">|
-|3 | Vaishnavi Ankar| 99007867 | <img src = "https://user-images.githubusercontent.com/93757351/168029291-5a3f3a98-f5df-4491-a129-7661eb199670.png" width="40%" height="40%">    |
-|4 | Aniket Nagpure | 99007871 |<img src = "https://user-images.githubusercontent.com/46985114/160232999-d73ce6a1-9ed8-4dac-8acc-d3ebb74128c0.jpg" width="40%" height="40%" >            |
+|    1   |    Kartik Burele    |  99007835 | <img src= "https://user-images.githubusercontent.com/98891749/159463146-8c404739-b2b2-4ba1-ae54-dd242e9775f0.jpg" width="20%" height="20%">|
+|      2 |    Saujandu Roy     |  99007834 | <img src="https://user-images.githubusercontent.com/98866279/159470500-f3bc65ac-dbe3-4c06-9d10-f3c71cd2f19c.jpg" width="20%" height="20%">|
+|3 | Vaishnavi Ankar| 99007867 | <img src = "https://user-images.githubusercontent.com/93757351/168029291-5a3f3a98-f5df-4491-a129-7661eb199670.png" width="20%" height="20%">    |
+|4 | Aniket Nagpure | 99007871 |<img src = "https://user-images.githubusercontent.com/46985114/160232999-d73ce6a1-9ed8-4dac-8acc-d3ebb74128c0.jpg" width="20%" height="20%" >            |
           
 
 
